@@ -1,6 +1,6 @@
 # Hi, I'm Alesia 👋
 
-**CS & Engineering @ UC Merced · Graduating December 2026 · Research + ML + Data**
+**Computer Science & Engineering @ UC Merced · Graduating December 2026 · Research + ML + Data**
 
 ---
 
@@ -14,9 +14,9 @@ I'm interested in research engineering, ML, and data-driven tools that solve rea
 
 ### What I'm working on
 
-- 🟢 **Gesture recognition pipeline** — automating gesture detection from lab video using PyTorch + CVAT + YOLOv8 for the LLT Lab's biliteracy project
-- 🔵 **RSAT scoring tool** — Python pipeline that transforms verbal protocol data into quantitative reading comprehension metrics (paraphrasing, elaboration, effort scores)
-- 🟣 **LLM bias benchmark** — systematic evaluation of bias across OpenAI and HuggingFace models using controlled prompt experiments and demographic variation
+-  **Gesture recognition pipeline** — automating gesture detection from lab video using PyTorch + CVAT + YOLOv8 for the LLT Lab's biliteracy project
+-  **RSAT scoring tool** — Python pipeline that transforms verbal protocol data into quantitative reading comprehension metrics (paraphrasing, elaboration, effort scores) for ongoing experiments at the LLT Lab
+-  **LLM bias benchmark** — systematic evaluation of bias across OpenAI and HuggingFace models using controlled prompt experiments and demographic variation
 
 ---
 
@@ -26,4 +26,4 @@ I'm interested in research engineering, ML, and data-driven tools that solve rea
 
 ---
 
-📍 UC Merced, CA  |  🔗 [LinkedIn](https://www.linkedin.com/in/alesia-williams/) |  ✉️ awilliams87@ucmerced.edu  |  🟢 Open to research & ML roles — Jan 2027
+📍 UC Merced, CA  |  🔗 [LinkedIn](https://www.linkedin.com/in/alesia-williams/) |  ✉️ awilliams87@ucmerced.edu  |
