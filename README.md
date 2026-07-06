@@ -14,7 +14,7 @@ I'm interested in research engineering, ML, and data-driven tools that solve rea
 
 ### What I'm working on
 
--  **Gesture recognition pipeline** — automating gesture detection from lab video using PyTorch + CVAT + YOLOv8 for the LLT Lab's biliteracy project
+-  **Gesture recognition pipeline** — automating gesture detection from lab video using PyTorch + CVAT + YOLOv8 for the LLT Lab's biliteracy project- this summer im helping with the frontend of this project!
 -  **RSAT scoring tool** — Python pipeline that transforms verbal protocol data into quantitative reading comprehension metrics (paraphrasing, elaboration, effort scores) for ongoing experiments at the LLT Lab
 -  **LLM bias benchmark** — systematic evaluation of bias across OpenAI and HuggingFace models using controlled prompt experiments and demographic variation
 
