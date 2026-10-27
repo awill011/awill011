@@ -27,4 +27,4 @@ I'm interested in research engineering, ML, and data-driven tools that solve rea
 
 --
 
-📍 UC Merced, CA  |  🔗 [LinkedIn](https://www.linkedin.com/in/alesia-williams/) |  ✉️ awilliams87@ucmerced.edu  |
+📍 UC Merced, CA  & Bay Area Native |  🔗 [LinkedIn](https://www.linkedin.com/in/alesia-williams/) |  ✉️ awilliams87@ucmerced.edu  |
