@@ -17,6 +17,7 @@ I'm interested in research engineering, ML, and data-driven tools that solve rea
 -  **Gesture recognition pipeline** — automating gesture detection from lab video using PyTorch + CVAT + YOLOv8 for the LLT Lab's biliteracy project- this summer im helping with the frontend of this project!
 -  **RSAT scoring tool** — Python pipeline that transforms verbal protocol data into quantitative reading comprehension metrics (paraphrasing, elaboration, effort scores) for ongoing experiments at the LLT Lab
 -  **LLM bias benchmark** — systematic evaluation of bias across OpenAI and HuggingFace models using controlled prompt experiments and demographic variation
+-  **LLT Lab Gesture Modeling Tool** - The gesture modeling tool needs de-identified video. This frontend is the researcher-facing side of the blurring pipeline: researchers upload MP4 recordings, the pipeline detects and blurs the regions that need protecting, and researchers review the result and fix any mistakes in a built-in editor before downloading the final video
 
 ---
 
